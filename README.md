@@ -1,3 +1,5 @@
-# number-theory
+# Number Theory and Cryptography
 
-A repository housing some of the scripts and coding I wrote and used for the Coursera course on 'Number Theory and Cryptography'
+Contents:  
+
+various code segments (python) related to Coursera Course 'Number Theory and Cryptography' by UC San Diego Hisgher School of Economics

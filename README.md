@@ -2,4 +2,4 @@
 
 Contents:  
 
-various code segments (python) related to Coursera Course 'Number Theory and Cryptography' by UC San Diego Hisgher School of Economics
+various code segments (python) related to Coursera Course 'Number Theory and Cryptography' by UC San Diego Higher School of Economics

@@ -1,5 +1,8 @@
 # Number Theory and Cryptography
 
-Contents:  
+Repository Contents:  
 
-various code segments (python) related to Coursera Course 'Number Theory and Cryptography' by UC San Diego Higher School of Economics
+various code segments (python) related to Coursera Course:  
+
+'Number Theory and Cryptography' 
+by UC San Diego Higher School of Economics
